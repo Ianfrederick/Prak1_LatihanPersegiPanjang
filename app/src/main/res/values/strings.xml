@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Keliling Persegi Panjang</string>
+    <string name="keliling_persegi_panjang">KELILING PERSEGI PANJANG</string>
+    <string name="input_panjang">Input Panjang</string>
+    <string name="input_lebar">Input Lebar</string>
+    <string name="clear">Clear</string>
+    <string name="hitung">Hitung</string>
+    <string name="keliling">Keliling</string>
+</resources>
+
+<!-- <string name="app_name">Keliling Persegi Panjang</string>
+adalah nama aplikasi (app_name) yang akan ditampilkan pada ikon aplikasi atau di bagian atas layar-->
+
+<!--<string name="keliling_persegi_panjang">KELILING PERSEGI PANJANG</string>
+ni mungkin digunakan sebagai judul atau label pada bagian aplikasi yang terkait dengan menghitung keliling persegi panjang
+-->
+
+<!--<string name="input_panjang">Input Panjang</string>
+digunakan sebagai label atau petunjuk untuk meminta pengguna untuk memasukkan panjang dari persegi panjang.
+-->
+
+<!--<string name="input_lebar">Input Lebar</string>
+digunakan sebagai label atau petunjuk untuk meminta pengguna untuk memasukkan lebar dari persegi panjang.
+-->
+
+<!--<string name="clear">Clear</string>
+merupakan label untuk tombol atau aksi yang memberikan opsi untuk menghapus atau membersihkan inputan yang telah dimasukkan pengguna
+-->
+
+<!--<string name="hitung">Hitung</string>
+merupakan label untuk tombol atau aksi yang akan memulai perhitungan keliling persegi panjang.
+-->
